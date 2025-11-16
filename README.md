@@ -1,13 +1,13 @@
 # 💫 About Me:
-<br>- 
-👋 Hi, I’m Suobulachi Ejekwu<br><br>
-- 👀 I’m interested in ... anime, multiple music genres,video games,and tech<br><br>
-- 🌱 I’m currently trying to learn frontend engineering, game dev if possible as well as mobile app development ...<br><br>
-- 💞️ I’m looking to collaborate on opensource organizations ...<br><br>- 📫 How to reach me ... @majinsobuu on X and Instagram... currently having troubles with my linkdIn (will be fixed later in life)<br><br>
-- 😄 Pronouns: ... He/Him just for formalities I don't really care about these stuff though<br><br>
+<br>
+-👋 Hi, I’m Suobulachi Ejekwu<br>
+- 👀 I’m interested in ... anime, multiple music genres,video games,and tech<br>
+- 🌱 I’m currently trying to learn frontend engineering, game dev if possible as well as mobile app development ...<br>
+- 💞️ I’m looking to collaborate on opensource organizations ...<br><br>- 📫 How to reach me ... @majinsobuu on X and Instagram... currently having troubles with my linkdIn (will be fixed later in life)<br>
+- 😄 Pronouns: ... He/Him just for formalities I don't really care about these stuff though<br>
 - ⚡ Fun fact: ... I'm Tall😋<br>
 
-<br><br><br><!---<br>majinsobuu/majinsobuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>You can click the Preview link to take a look at your changes.<br>----><br><br><br>
+<!---<br>majinsobuu/majinsobuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>You can click the Preview link to take a look at your changes.<br>----><br><br><br>
 
 
 ## 🌐 Socials:
